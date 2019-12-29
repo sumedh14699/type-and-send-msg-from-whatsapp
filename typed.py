@@ -8,7 +8,7 @@ while True:
  if keyboard.is_pressed('e'):         
   while True:
     
- #if keyboard.is_pressed('l'):
+  
         #k.tap_key('d')
         k.type_string('abba.... harmonium....')
       

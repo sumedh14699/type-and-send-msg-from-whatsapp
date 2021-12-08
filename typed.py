@@ -7,9 +7,7 @@ k = PyKeyboard()
 while True:
  if keyboard.is_pressed('e'):         
   while True:
-    
-  
-        #k.tap_key('d')
+        
         k.type_string('abba.... harmonium....')
       
         #k.tap_key(emoji.emojize(":grinning_face_with_big_eyes:"))

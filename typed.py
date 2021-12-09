@@ -7,7 +7,14 @@ k = PyKeyboard()
 while True:
  if keyboard.is_pressed('e'):         
   while True:
+<<<<<<< HEAD
         k.type_string('abba.... harmonium....')
+=======
+    
+  
+        #k.tap_key('d')
+        k.type_string('humans!!!!!!!!!!!!!!!!!')
+>>>>>>> mother_side_grandChild
         
         k.tap_key(k.enter_key)
         

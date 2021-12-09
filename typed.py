@@ -7,9 +7,10 @@ k = PyKeyboard()
 while True:
  if keyboard.is_pressed('e'):         
   while True:
-        
-        k.type_string('grandest child ever')
-        
+        #k.tap_key('d')
+        k.type_string('i am the Knight, i am the vengence, I am Batman!!!!!!')
+
+
         k.tap_key(k.enter_key)
         
         if keyboard.is_pressed('q'):

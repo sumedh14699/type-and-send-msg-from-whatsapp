@@ -10,7 +10,7 @@ while True:
     
   
         #k.tap_key('d')
-        k.type_string('abba.... harmonium....')
+        k.type_string('i am the Knight, i am the vengence, I am Batman!!!!!!')
       
         #k.tap_key(emoji.emojize(":grinning_face_with_big_eyes:"))
         #k.type_string(emoji.emojize(":grinning_face_with_big_eyes:"))

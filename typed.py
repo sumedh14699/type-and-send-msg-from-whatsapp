@@ -10,7 +10,7 @@ while True:
     
   
         #k.tap_key('d')
-        k.type_string('abba.... harmonium....')
+        k.type_string('humans!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
         
         k.tap_key(k.enter_key)
         
